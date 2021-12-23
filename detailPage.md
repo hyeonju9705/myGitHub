@@ -1,0 +1,1 @@
+detailPage입니다
